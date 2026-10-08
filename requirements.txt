@@ -5,3 +5,4 @@ Scikit-learn
 tensorboard
 matplotlib
 streamlit
+pickle
